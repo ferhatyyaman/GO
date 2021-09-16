@@ -14,8 +14,7 @@ func main() {
 		hesap = hesap - cekilmekIstenen
 
 	}
-	fmt.Printf("hesapta kalan para: %v", hesap) 
+	fmt.Printf("hesapta kalan para: %v", hesap)
 	//-----------2. yöntem---------
 	//fmt.Println("hesapta kalan para : "+fmt.sprintf(%v,hesap))
-}
 }
